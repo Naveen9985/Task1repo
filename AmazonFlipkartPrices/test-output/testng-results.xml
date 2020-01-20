@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opened Amazon]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on search]]>
+    </line>
+    <line>
+      <![CDATA[The price of the selected product in Amazon is : 42,900]]>
+    </line>
+    <line>
+      <![CDATA[Iphone Price in Amazon is :42900]]>
+    </line>
+    <line>
+      <![CDATA[Opened Filpkart]]>
+    </line>
+    <line>
+      <![CDATA[Page completely loaded]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on teh cross button]]>
+    </line>
+    <line>
+      <![CDATA[entered product details]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the search button]]>
+    </line>
+    <line>
+      <![CDATA[The price of the selected product in FlipKart is : ₹53,999]]>
+    </line>
+    <line>
+      <![CDATA[Iphone price in Flipkart is:53999]]>
+    </line>
+    <line>
+      <![CDATA[The price of the product is less in Amazon]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126342" started-at="2020-01-20T13:32:52Z" finished-at="2020-01-20T13:34:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126342" started-at="2020-01-20T13:32:52Z" finished-at="2020-01-20T13:34:58Z">
+      <class name="com.TestScripts.Tc_101">
+        <test-method status="PASS" signature="case_101()[pri:0, instance:com.TestScripts.Tc_101@2eafffde]" name="case_101" duration-ms="126323" started-at="2020-01-20T19:02:52Z" finished-at="2020-01-20T19:04:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Opened Amazon]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on search]]>
+            </line>
+            <line>
+              <![CDATA[The price of the selected product in Amazon is : 42,900]]>
+            </line>
+            <line>
+              <![CDATA[Iphone Price in Amazon is :42900]]>
+            </line>
+            <line>
+              <![CDATA[Opened Filpkart]]>
+            </line>
+            <line>
+              <![CDATA[Page completely loaded]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on teh cross button]]>
+            </line>
+            <line>
+              <![CDATA[entered product details]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the search button]]>
+            </line>
+            <line>
+              <![CDATA[The price of the selected product in FlipKart is : ₹53,999]]>
+            </line>
+            <line>
+              <![CDATA[Iphone price in Flipkart is:53999]]>
+            </line>
+            <line>
+              <![CDATA[The price of the product is less in Amazon]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- case_101 -->
+      </class> <!-- com.TestScripts.Tc_101 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
