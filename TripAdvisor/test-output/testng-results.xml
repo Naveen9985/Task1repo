@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Lauched browser]]>
+    </line>
+    <line>
+      <![CDATA[Opened TripAdvisor]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on search]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the first searched link]]>
+    </line>
+    <line>
+      <![CDATA[The title of the Parent window is : Search results: Club Mahindra - TripAdvisor]]>
+    </line>
+    <line>
+      <![CDATA[The title of the child window is : CLUB MAHINDRA MADIKERI, COORG - Resort Reviews, Photos, Rate Comparison - TripAdvisor]]>
+    </line>
+    <line>
+      <![CDATA[Cicked on the write review option]]>
+    </line>
+    <line>
+      <![CDATA[The title of the child1 window is :Write a review - TripAdvisor]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the review rating]]>
+    </line>
+    <line>
+      <![CDATA[gave review]]>
+    </line>
+    <line>
+      <![CDATA[Gave Hotel Ratings]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cheque box I aagree]]>
+    </line>
+    <line>
+      <![CDATA[Submitted Review]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="166163" started-at="2020-01-20T11:46:46Z" finished-at="2020-01-20T11:49:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="166163" started-at="2020-01-20T11:46:46Z" finished-at="2020-01-20T11:49:32Z">
+      <class name="com.TestScripts.TestCase101">
+        <test-method status="PASS" signature="caseTc101()[pri:0, instance:com.TestScripts.TestCase101@5f5a92bb]" name="caseTc101" duration-ms="166137" started-at="2020-01-20T17:16:46Z" finished-at="2020-01-20T17:19:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Lauched browser]]>
+            </line>
+            <line>
+              <![CDATA[Opened TripAdvisor]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on search]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the first searched link]]>
+            </line>
+            <line>
+              <![CDATA[The title of the Parent window is : Search results: Club Mahindra - TripAdvisor]]>
+            </line>
+            <line>
+              <![CDATA[The title of the child window is : CLUB MAHINDRA MADIKERI, COORG - Resort Reviews, Photos, Rate Comparison - TripAdvisor]]>
+            </line>
+            <line>
+              <![CDATA[Cicked on the write review option]]>
+            </line>
+            <line>
+              <![CDATA[The title of the child1 window is :Write a review - TripAdvisor]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the review rating]]>
+            </line>
+            <line>
+              <![CDATA[gave review]]>
+            </line>
+            <line>
+              <![CDATA[Gave Hotel Ratings]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cheque box I aagree]]>
+            </line>
+            <line>
+              <![CDATA[Submitted Review]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- caseTc101 -->
+      </class> <!-- com.TestScripts.TestCase101 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
